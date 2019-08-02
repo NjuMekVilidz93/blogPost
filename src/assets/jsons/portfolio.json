@@ -1,0 +1,14 @@
+[
+    {
+    "src" : "assets/images/work_1.jpg",
+    "alt" : "work1"
+    },
+    {
+    "src" : "assets/images/work_2.jpg",
+    "alt" : "work2"
+    },
+    {
+    "src" : "assets/images/work_3.jpg",
+    "alt" : "work3"
+    }
+]
